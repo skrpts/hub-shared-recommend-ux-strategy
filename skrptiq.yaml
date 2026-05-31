@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "d87c8dc4-5067-429d-8187-524736e1e670"
+name: "recommend-ux-strategy"
+display_name: "Recommend Strategy"
+description: "Produces strategic UX recommendations with prioritisation"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-recommend-ux-strategy"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
