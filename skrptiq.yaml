@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "d87c8dc4-5067-429d-8187-524736e1e670"
+id: "9c45c389-824e-46c3-9c6a-ca04b7f3f75f"
 name: "recommend-ux-strategy"
 display_name: "Recommend Strategy"
 description: "Produces strategic UX recommendations with prioritisation"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
