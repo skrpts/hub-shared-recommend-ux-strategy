@@ -2,8 +2,8 @@
 id: "9c45c389-824e-46c3-9c6a-ca04b7f3f75f"
 name: "recommend-ux-strategy"
 display_name: "Recommend Strategy"
-description: "Produces strategic UX recommendations with prioritisation"
-version: "1.0.2"
+description: "Produces strategic UX recommendations with prioritization"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-10-25T16:49:01.627Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/recommend-ux-strategy/security"
